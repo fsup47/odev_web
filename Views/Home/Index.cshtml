@@ -12,28 +12,45 @@
     <title>@ViewBag.Title</title>
 </head>
 <body>
-    <div>
-        <div class="top">
-            <h1>deneme2</h1>
-        </div>
-        <div class="sitename">
-            <h1>deneme3</h1>
-        </div>
-        <div class="description">
-            <h1>deneme4</h1>
-        </div>
-        <div class="collapse navbar-collapse">
+   
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="Menu">
             <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a asp-action="AllCreatures" class="nav-link">Canlılar</a>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" asp-action="Index" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown link
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" asp-action="Index">Omurgalılar</a>
+                        <a class="dropdown-item" asp-action="Index">Omurgasızlar</a>
+                        
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" asp-action="Index" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown link
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" asp-action="Index">ayrıntı2</a>
+                        <a class="dropdown-item" asp-action="Index">ayrıntı</a>
+                        
+                    </div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" asp-action="Index">İletişim <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
-
         </div>
-        <div class="contact">
-            <a asp-action="Contact" class="nav-link">iletişim</a>
-        </div>
-        <h1>deneme5</h1>
-    </div>
+    </nav>
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
 </body>
 </html>
