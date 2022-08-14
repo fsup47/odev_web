@@ -8,11 +8,14 @@ Sakarya Üniversitesi Bilgisayar mühendisliği öğrencisi
 Açıklama
 Nesli tükenmek üzere olan hayvanlar, endemik bitkilerin listelendiği,
 her türün altında yorum yapabilen ve sadece adminin tür ekleyip düzenleyebildiği bir websitesi yapmak.
+Hedefim ödevin bitiş süresinde yetişmese bile projeyi tamamlayıp öğretilmek istenene ulaşmak.
 
 Tarihe Göre yaptığım işlemler
 03.08.2022 Githubı kullanmaya başladım.
 08.08.2022 Yapacaklarımı yaptıklarımı anlattığım metin dosyasını oluşturdum.
-12.08.2022 
+12.08.2022 Githuba commit atmayı öğrendim.
+13.08.2022 Bootstrap kullanmayı öğrenmeye başladım.
+14.08.2022 Hedefim site tasarımını bitirmek.
 yapılmak istenen konu açıkla
 
   Projede kullanılanlar (Visual Studio 2019,IDE)
