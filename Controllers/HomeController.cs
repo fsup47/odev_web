@@ -21,17 +21,23 @@ namespace odev_web.Controllers
             return View();
         }
 
-        public ViewResult  AllCreatures()
+        public ViewResult  Animal()
         {
 
             return View();
         }
-     
+
+        public ViewResult Plant()
+        {
+            return View();
+        }
         public ViewResult Contact()
         {
 
             return View();
         }
+
+      
 
 
     }
