@@ -6,8 +6,8 @@ b181210039
 Sakarya Üniversitesi Bilgisayar mühendisliği öğrencisi
 
 Açıklama
-Nesli tükenmek üzere olan hayvanlar, endemik bitkilerin listelendiği,
-her türün altında yorum yapabilen ve sadece adminin tür ekleyip düzenleyebildiği bir websitesi yapmak.
+Ender hayvanlar, endemik bitkilerin listelendiği,
+her türün altında yorum yapabilen ve sadece adminin tür ekleyip düzenleyebildiği bir blog tarzı websitesi yapmak.
 Hedefim ödevin bitiş süresinde yetişmese bile projeyi tamamlayıp öğretilmek istenene ulaşmak.
 
 Tarihe Göre yaptığım işlemler
