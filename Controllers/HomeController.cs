@@ -14,11 +14,12 @@ namespace odev_web.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        
+
+        private BlogContext context = new BlogContext();
 
         public IActionResult Index()
         {
-            return View();
+            return View(context.Bloglar.ToList());
         }
 
        
