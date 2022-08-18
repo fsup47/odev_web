@@ -15,8 +15,8 @@ her türün altında yorum yapabilen ve sadece adminin tür ekleyip düzenleyebi
 #Projede Kullanılan Teknolojiler (Visual Studio 2019)
 ->	Asp.net Core 3,1 MVC 
 ->	C#
-->	Veritabanı (olarak SQL Server /PostgreSQL/ vb)
-->	Entity Framework Core ORM
+->	Veritabanı (olarak SQL Server /PostgreSQL/ vb)  kullanılmadı
+->	Entity Framework Core ORM tam olarak kullanılmadı server ?
 ->	Bootstrap Tema
 ->	HTML5
 ->	CSS3 daha kullanılmadı
