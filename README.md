@@ -9,8 +9,9 @@ Yapılan bu proje Sakarya Üniversitesi Bilgisayar Mühendisliği Web Programlam
 Derrste öğretilen teorik ve pratik bilgilerin, gerçek bir problem veya istek doğrultusunda Çözüm sunabilen bir web projesi yapmaktır.
 
 #Site Konusu
-Ender hayvanlar, endemik bitkilerin listelendiği,
-her türün altında yorum yapabilen ve sadece adminin tür ekleyip düzenleyebildiği bir blog tarzı websitesi yapmak.
+Sitede bazı kategerolier ile ilgili fotoğraf ve ufak bilgilerin olduğu, 
+sadece üyelerin etkileşim kurabileceği bir site yapmak.(örneğin beğeni giib ifaede bırakabildği ve yorum yapabildiği.)
+Bu projeyi geç kaldığım için tamamlayamadım.Normal Okul dönemi başlmadan bitirmeyi planlıyorum.
 
 #Projede Kullanılan Teknolojiler (Visual Studio 2019)
 ->	Asp.net Core 3,1 MVC 
