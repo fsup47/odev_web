@@ -6,12 +6,13 @@ Sakarya Üniversitesi Bilgisayar mühendisliği öğrencisi
 
 #Açıklama
 Yapılan bu proje Sakarya Üniversitesi Bilgisayar Mühendisliği Web Programlama dersi proje ve ödevler için yapılmıştır.
-Derrste öğretilen teorik ve pratik bilgilerin, gerçek bir problem veya istek doğrultusunda Çözüm sunabilen bir web projesi yapmaktır.
+Derste öğretilen teorik ve pratik bilgilerin, gerçek bir problem veya istek doğrultusunda Çözüm sunabilen bir web projesi yapmaktır.
+Şu an projede şablonların bir kısmı var o kadar.
 
 #Site Konusu
-Sitede bazı kategerolier ile ilgili fotoğraf ve ufak bilgilerin olduğu, 
-sadece üyelerin etkileşim kurabileceği bir site yapmak.(örneğin beğeni giib ifaede bırakabildği ve yorum yapabildiği.)
-Bu projeyi geç kaldığım için tamamlayamadım.Normal Okul dönemi başlmadan bitirmeyi planlıyorum.
+Sitede bazı kategoriler ile ilgili fotoğraf ve ufak bilgilerin olduğu, 
+Sadece üyelerin etkileşim kurabileceği bir site yapmak. Örneğin beğeni gibi ifade ve yorum yapabildiği.)
+Bu projeyi geç kaldığım için tamamlayamadım. Normal Okul dönemi başlamadan bitirmeyi planlıyorum.
 
 #Projede Kullanılan Teknolojiler (Visual Studio 2019)
 ->	Asp.net Core 3,1 MVC 
@@ -32,4 +33,5 @@ Bu projeyi geç kaldığım için tamamlayamadım.Normal Okul dönemi başlmadan
 ->	(Admin  için kullanıcı adı : OgrenciNuramarasi@sakarya.edu.tr) ve  şifre 123)
 ->	Authorization doğru bir şekilde yapılmalıdır.
 ->  Çok dilli (En azından Türkçe/İngilizce) olmalıdır.
-->	Projede yer alan veri tabanınındaki uygun verilerden en az bir api hizmeti sunulmalıdır. 
+->	Projede yer alan veri tabanınındaki uygun verilerden en az bir api hizmeti sunulmalıdır
+
